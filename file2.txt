@@ -8,3 +8,5 @@ Adding Second feature from second
 Adding a feature
 
 checking developer branch
+
+Created and pushed the dev branch to origin, now making a change on local/dev and pushing into origin/dev.  
